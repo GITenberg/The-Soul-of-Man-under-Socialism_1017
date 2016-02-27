@@ -1,0 +1,31 @@
+_repo: The-Soul-of-Man-under-Socialism_1017
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: The Soul of Man under Socialism is an 1891 essay by Oscar Wilde. Wilde
+  puts forth the argument that within a capitalist system "the majority of people
+  spoil their lives by an unhealthy and exaggerated altruism - are forced, indeed,
+  so to spoil them"--That the necessity of solving the problems that capitalism creates
+  draws away the talent that could otherwise be used to fulfill one's potential. In
+  taking the the cause of this away ...
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism'
+title: The Soul of Man under Socialism
+url: http://www.gutenberg.org/ebooks/1017
