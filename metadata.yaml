@@ -1,5 +1,8 @@
 _repo: The-Soul-of-Man-under-Socialism_1017
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 1017-h/images/coverb.jpg
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -17,6 +20,8 @@ description: The Soul of Man under Socialism is an 1891 essay by Oscar Wilde. Wi
   so to spoil them"--That the necessity of solving the problems that capitalism creates
   draws away the talent that could otherwise be used to fulfill one's potential. In
   taking the the cause of this away ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1017#The-Soul-of-Man-under-Socialism
 gutenberg_issued: '1997-08-01'
 gutenberg_type: Text
 identifiers:
