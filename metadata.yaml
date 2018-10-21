@@ -1,5 +1,5 @@
 _repo: The-Soul-of-Man-under-Socialism_1017
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 1017-h/images/coverb.jpg
@@ -33,5 +33,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'HX'
 - !lcsh 'Socialism'
+- GITenberg
 title: The Soul of Man under Socialism
 url: http://www.gutenberg.org/ebooks/1017
